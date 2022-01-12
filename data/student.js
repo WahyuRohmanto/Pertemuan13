@@ -3,3 +3,4 @@ const students = ["wahyu", "bambang" , "riski" , "hilal"]
 
 // TODO 2: export data students
 module.exports = students;
+
